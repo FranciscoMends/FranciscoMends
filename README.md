@@ -1,4 +1,4 @@
-<h1> Hi! My name is Mendes. </h1>
+<h1> Hi! My name's Mendes. </h1>
 
 <div>
   <a href="https://github.com/franciscomends">
@@ -20,7 +20,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
-    
+<div>    
 </div>
     <a href="https://www.instagram.com/mendesf_021/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    
